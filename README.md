@@ -1,4 +1,4 @@
-LISTS, LOOPS, AND TRAVERSALS REVIEW PART 2  
+LISTS, LOOPS, AND TRAVERSALS REVIEW PART 1  
 =============
 ![](https://media.giphy.com/media/J342sjcgjiqRLoFnQS/giphy.gif)  
 
